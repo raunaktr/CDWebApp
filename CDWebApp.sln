@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CDWebApp", "CDWebApp\CDWebApp.csproj", "{96DF204D-70D2-4C6E-8887-016B667BC18D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96DF204D-70D2-4C6E-8887-016B667BC18D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96DF204D-70D2-4C6E-8887-016B667BC18D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96DF204D-70D2-4C6E-8887-016B667BC18D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96DF204D-70D2-4C6E-8887-016B667BC18D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8067CF2-1241-4339-B2B4-346BBB4B1146}
+	EndGlobalSection
+EndGlobal
